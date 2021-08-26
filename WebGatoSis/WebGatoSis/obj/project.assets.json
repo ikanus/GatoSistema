@@ -656,19 +656,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\61483\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Carlos\\Proyectos\\GatoSis\\WebGatoSis\\WebGatoSis\\WebGatoSis.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\GatoSistema\\WebGatoSis\\WebGatoSis\\WebGatoSis.csproj",
       "projectName": "WebGatoSis",
-      "projectPath": "D:\\Carlos\\Proyectos\\GatoSis\\WebGatoSis\\WebGatoSis\\WebGatoSis.csproj",
-      "packagesPath": "C:\\Users\\61483\\.nuget\\packages\\",
-      "outputPath": "D:\\Carlos\\Proyectos\\GatoSis\\WebGatoSis\\WebGatoSis\\obj\\",
+      "projectPath": "D:\\Documentos\\GitHub\\GatoSistema\\WebGatoSis\\WebGatoSis\\WebGatoSis.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\GitHub\\GatoSistema\\WebGatoSis\\WebGatoSis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\61483\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -676,6 +676,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Sistemas\\Horoscopo": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -717,7 +718,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
